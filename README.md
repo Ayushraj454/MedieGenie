@@ -9,6 +9,7 @@ Secure payment processing before consultations to ensure a smooth experience.
 Strict privacy compliance for Protected Health Information (PHI), with secure data storage for future reference.  Real-time chat functionality to enhance communication during consultations. 
 
 DEPLOYMENT LINK OF THE APP:
+
 https://instantly-wondrous-trout.ngrok-free.app/
 
 
